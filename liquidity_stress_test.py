@@ -5,7 +5,7 @@ import requests
 import pandas as pd
 import numpy as np
 
-SEC_USER_AGENT = "Andrew Ignatescu (andrewignatescu@bu.edu)"
+SEC_USER_AGENT = "Andrew Ignatescu (atig@bu.edu)"
 SEC_HEADERS = {
     "User-Agent": SEC_USER_AGENT,
     "Accept-Encoding": "gzip, deflate",
